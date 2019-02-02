@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e9055afe-c42e-44a0-86db-2d5dc67e13d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+              <caret line="26" column="140" selection-start-line="26" selection-start-column="140" selection-end-line="26" selection-end-column="140" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -65,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="19346">
               <caret line="1138" column="54" selection-start-line="1138" selection-start-column="54" selection-end-line="1138" selection-end-column="54" />
             </state>
           </provider>
@@ -184,12 +182,15 @@
       <updated>1548013947495</updated>
       <workItem from="1548013949120" duration="3734000" />
       <workItem from="1548076129709" duration="8743000" />
-      <workItem from="1548268965227" duration="5130000" />
+      <workItem from="1548268965227" duration="6965000" />
+      <workItem from="1548344260726" duration="2153000" />
+      <workItem from="1548594010542" duration="602000" />
+      <workItem from="1549130471470" duration="1904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17607000" />
+    <option name="totallyTimeSpent" value="24101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -206,8 +207,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.114285715" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.05042017" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.45882353" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.05042017" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -236,6 +237,46 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/overlay.png">
       <provider selected="true" editor-type-id="images" />
@@ -243,29 +284,13 @@
     <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="1138" column="54" selection-start-line="1138" selection-start-column="54" selection-end-line="1138" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/pic03.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/pic01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+          <caret line="26" column="140" selection-start-line="26" selection-start-column="140" selection-end-line="26" selection-end-column="140" />
           <folding>
             <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -284,6 +309,22 @@
             <element signature="n#style#0;n#pre#0;n#article#19;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#pre#0;n#article#20;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pic01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19346">
+          <caret line="1138" column="54" selection-start-line="1138" selection-start-column="54" selection-end-line="1138" selection-end-column="54" />
         </state>
       </provider>
     </entry>
